@@ -1,0 +1,12 @@
+streamlit
+googlemaps
+folium
+streamlit-folium
+opencv-python
+pyaudio
+wave
+twilio
+geopy
+openai
+pillow
+numpy
